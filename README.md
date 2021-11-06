@@ -7,7 +7,7 @@
 </h1>
 
 # Important
-## :key: How to Login
+## :key: How to LogIn
 
 User : kv <br/>
 Password : 1111
@@ -18,7 +18,7 @@ Password : 2222
 ---
 
 
-:key: Take a look --> https://victorlira-dev.github.io/Bankist/
+:key: Take a look --> https://keshav-vikas.github.io/BankingApp/
 
 
 ## :rocket: Technologies used:
@@ -31,7 +31,7 @@ Password : 2222
 ---
 
 ## ⭐ Features
-- [x] Login, Logout
-- [x] Transfer money
-- [x] request loan
-- [x] close account
+- [x] LogIn, LogOut
+- [x] Transfer Money
+- [x] Request Loan
+- [x] Close Account
